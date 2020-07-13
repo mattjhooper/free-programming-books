@@ -293,8 +293,8 @@
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁) (繁体中文)
 * [编码规范](https://github.com/ecomfe/spec)
-* [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
-* [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
+* [让开发自动化系列专栏](https://wizardforcel.gitbooks.io/ibm-j-ap)
+* [追求代码质量](https://wizardforcel.gitbooks.io/ibm-j-cq)
 
 
 ## 语言相关
@@ -398,6 +398,7 @@
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
 * [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) (《[The Little Go Book](https://github.com/karlseguin/the-little-go-book)》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [Go 语法树入门](https://github.com/chai2010/go-ast-book)
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Go 语言高级编程（Advanced Go Programming）](https://github.com/chai2010/advanced-go-programming-book)

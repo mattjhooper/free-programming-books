@@ -7,6 +7,7 @@
   * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
+* [Angular](#angular)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
@@ -72,7 +73,11 @@
 ### Android
 
 * [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
-* [Guida programmazione Android 4.2](http://www.sprik.it/download/guida-programmazione-android-4-2/)
+
+
+### Angular
+
+* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### Assembly Language
@@ -95,7 +100,7 @@
 
 ### C Sharp
 
-* [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
+* [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 
 
 ### C Plus Plus
@@ -158,6 +163,7 @@
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Java 9 e 10, la guida](https://www.html.it/guide/java-9-la-guida/) (HTML)
+* [Java Mattone dopo Mattone](http://www.digididattica.it/pluginfile.php/2127/mod_resource/content/1/javamattone.pdf) (PDF)
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 
@@ -180,10 +186,10 @@
 * [Impara LaTeX! (... e mettilo da parte)](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) - Marc Baudoin (PDF)
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)
 * [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) - L. Pantieri e T. Gordini (PDF)
-* [LaTeX facile](http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) - N. Garbellini (PDF)
+* [LaTeX facile](https://web.archive.org/web/20180712171427/http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) - N. Garbellini (PDF)
 * [LaTeX, naturalmente!](http://www.batmath.it/latex/pdfs/guida_st.pdf) - L .Battaia (PDF)
 * [LaTeX per l'impaziente](http://www.lorenzopantieri.net/LaTeX_files/LaTeXimpaziente.pdf) - L. Pantieri (PDF)
-* [Scrivere la tesi di laurea con LaTeX](http://www.guit.sssup.it/guitmeeting/2005/articoli/mori.pdf) - L.F. Mori (PDF)
+* [Scrivere la tesi di laurea con LaTeX](https://web.archive.org/web/20180417083215/http://www.guit.sssup.it/guitmeeting/2005/articoli/mori.pdf) - L.F. Mori (PDF)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
 
 
@@ -213,6 +219,7 @@
 
 * [Il manuale di riferimento di Python](http://docs.python.it/html/ref/)
 * [Il tutorial di Python](http://docs.python.it/html/tut/)
+* [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, _traduzione di: Giulio Piancastelli_ (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
 
@@ -226,7 +233,7 @@
 
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
-* [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+* [Ruby User Guide](https://web.archive.org/web/20161102011319/http://ruby-it.org/rug_it.zip)
 
 
 ### UML
